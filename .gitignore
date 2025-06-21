@@ -1,3 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.[oa]
+*.so
+
+# C extensions
+*.pyd
+*.dll
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+VENV/
+
+# IDE directories
+.idea/
+.vscode/
+
+# Project-specific files to ignore
 tg_token.py
 trusted_users.txt
-__pycache__/
+*.db
+instance/
