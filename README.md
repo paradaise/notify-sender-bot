@@ -116,7 +116,7 @@
 
 <p align="center">
   <img src="./demo/change_message.png" alt="Изменение сообщения" width="80%">
-  <img src="./demo/change_interval.png" alt="Изменение интервала" width="90%">
+  <img src="./demo/change_interval.png" alt="Изменение интервала" width="80%">
 </p>
 
 ##### 2. Изменение списка каналов рассылки
